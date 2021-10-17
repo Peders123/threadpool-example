@@ -1,3 +1,9 @@
+/**
+ * This is documentation
+ * 
+ * @author Rory Caston
+ * @version 1.8
+ */
 public class Job implements Runnable {
 	private int jobNumber;
 
